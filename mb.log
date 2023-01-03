@@ -1,0 +1,6 @@
+{"level":"info","message":"[mb:5000] mountebank v2.8.1 now taking orders - point your browser to http://localhost:5000/ for help","timestamp":"2023-01-03T10:03:45.960Z"}
+{"level":"info","message":"[mb:5000] POST /imposters","timestamp":"2023-01-03T10:03:45.967Z"}
+{"level":"info","message":"[http:5001] Open for business...","timestamp":"2023-01-03T10:03:45.969Z"}
+{"level":"info","message":"[mb:5000] GET /","timestamp":"2023-01-03T10:04:35.234Z"}
+{"level":"info","message":"[http:5001] ::1:59107 => GET /app/videogames","timestamp":"2023-01-03T10:04:42.811Z"}
+{"level":"info","message":"[http:5001] ::1:59218 => GET /app/videogames","timestamp":"2023-01-03T10:05:51.607Z"}
