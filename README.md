@@ -18,6 +18,7 @@ Install the dependecies.
  ```http
   npm start
 ```
+where mountebank server will start on port 5000
 
 This repo is used for the blog 
 
